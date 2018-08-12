@@ -1,0 +1,4 @@
+#!/bin/sh
+
+pkgfile --update && echo "[$(date)] : pkgfile update successful" >> /tmp/cron.pkgfile-update.log
+
