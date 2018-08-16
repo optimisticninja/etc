@@ -5,7 +5,7 @@
 !.gitignore
 !anacrontab
 !bash.bash_logout
-!bash.bahrc
+!bash.bashrc
 !crontab
 !environment
 !profile
@@ -18,6 +18,7 @@
 !vimrc
 !fstab
 !crypttab
+!slim.conf
 */
 !cron.d/
 !cron.d/*
