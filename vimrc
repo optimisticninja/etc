@@ -20,7 +20,7 @@ runtime! archlinux.vim
 set secure
 set number
 set mouse=a
-
+set cursorline
 set tabstop=4
 set softtabstop=4
 set shiftwidth=4
